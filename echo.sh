@@ -6,4 +6,3 @@ echo "don't sleep 10 minutes"
 echo "works here!!!!"
 echo "works here!!!!"
 echo "hey niraj"
-exit 1
