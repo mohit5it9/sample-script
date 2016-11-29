@@ -1,6 +1,6 @@
 echo 'Hello runSh'
 echo 'woke up early'
-echo "hello this works!!!" > /build/output/hello.js
+echo "hello this works!!!" 
 echo "sleep for 5 minutes"
 #sleep 5m
 echo "works here!!!!"
